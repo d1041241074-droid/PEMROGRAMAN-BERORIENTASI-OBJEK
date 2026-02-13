@@ -15,6 +15,11 @@ public class LatihanKalkulator {
         System.out.println("Pembagian = "  + (angka1 / angka2));
         System.out.println("Sisa bagi = "  + (angka1 % angka2));
 
+
+        //Pembagian dengan desimal
+        double hasil = (double) angka1 / angka2;
+        System.out.println("Pembagian desimal = " + hasil);
+
     }
 }
 
