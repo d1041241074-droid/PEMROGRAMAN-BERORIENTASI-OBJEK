@@ -2,7 +2,7 @@
 
 **Nama** : Urai Salwa Kirania Nadia  
 **NIM** : D1041241074  
-**Mata Kuliah** : Pemrograman Berbasis Objek (B)  
+**Mata Kuliah** : Pemrograman Berorientasi Objek (B)  
 **Tugas** : Narasi 
 
 Lewat materi pada pertemuan 4 yang telah diberikan sebelumnya, saya memahami bahwa Naming Convention merupakan suatu aturan atau bisa dikatakan sebagai standar penamaan di dalam pemrograman agar source code yang kita input lebih rapi, konsisten, mudah dibaca, mudah dipahami, serta mudah dirawat (maintability) bukan hanya bagi diri sendiri melainkan bagi orang lain yang membacanya. Naming convention mengatur identifier seperti nama, variable, class, method, dan lainnya. Untuk pemrograman Java sendiri, Naming convention yang digunakan untuk Variabel dan method adalah camelCase. Sebagai contoh implementasinya adalah dimulai dengan huruf kecil, kata pertama ditulis lowerscase, kata selanjutnya meggunakan huruf kapital, tidak menggunakan karakter khusus, dan sebagainya. Sedangkan untuk class menggunakan PascalCase. Source code yang diinput harus menggunakan aturan yang sesuai standar. 
