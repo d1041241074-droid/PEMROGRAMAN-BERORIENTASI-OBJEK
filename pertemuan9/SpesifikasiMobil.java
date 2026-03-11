@@ -6,7 +6,7 @@ class Mobil {
         int tahun;
         int kecepatan;
 
-        public void tampilkanInfo() {
+        public void tampilkanSpesifikasi() {
             System.out.println("=== SPESIFIKASI MOBIL ===");
             System.out.println("Merk: " + merk);
             System.out.println("Warna: " + warna);
@@ -35,10 +35,10 @@ public class SpesifikasiMobil{
         info.tahun = 2020;
 
         //menampilkan nilai sebelum method dipanggil
-        info.tampilkanInfo();
+        info.tampilkanSpesifikasi();
 
         System.out.println();
-        
+
         info.percepat();
         info.percepat();
         info.tampilkanKecepatan();
