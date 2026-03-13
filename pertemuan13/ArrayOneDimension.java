@@ -14,8 +14,8 @@ public class ArrayOneDimension {
         System.out.println("Elemen pertama (indeks 4): " + angka[4]);
         System.out.println();
 
-         System.out.println("Semua elemen array: ");
-         for(int i = 0; i < angka.length; i++) {
+        System.out.println("Semua elemen array: ");
+        for(int i = 0; i < angka.length; i++) {
             System.out.println("Indeks " + i + ": " + angka[i]);
         }
         System.out.println();
